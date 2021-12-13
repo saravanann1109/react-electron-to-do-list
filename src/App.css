@@ -1,0 +1,16 @@
+.add-activity{
+  width: 100%;
+}
+
+.input{
+  width: 100%;
+}
+
+.activity-list{
+  padding: 25px 0px;
+  height: 390px;
+}
+
+.activity-container{
+  height: 500px;
+}
